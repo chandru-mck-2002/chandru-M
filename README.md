@@ -5,10 +5,6 @@
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
 
-![Chandru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandru-mck-2002&theme=react-dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandru-mck-2002&layout=compact&theme=tokyonight&hide_border=true)
-
-
 
 ---
 ## 🚀 About Me
@@ -65,6 +61,7 @@
 
 ![Chandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandru-mck-2002&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandru-mck-2002&layout=compact&theme=radical)  
+![Chandru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandru-mck-2002&theme=react-dark&hide_border=true)
 
 ---
 
