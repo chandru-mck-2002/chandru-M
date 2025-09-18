@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&lines=Hi+👋,+I'm+Chandru;Full-Stack+Developer;Application+%26+Software+Developer;System+Design+Enthusiast)](https://git.io/typing-svg)
 
-<img src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://tenor.com/en-IN/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647)" width="400" align="right" />
+<img src="https://tenor.com/en-IN/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647" width="400" align="right" />
 
 ---
 
