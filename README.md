@@ -3,14 +3,17 @@
 💻 **Full-Stack Developer | Backend Enthusiast | Problem Solver**
 
 ---
+🚀 About Me
 
-## 🚀 About Me
-- 🌱 Skilled in **Backend Development (Python Flask, FastAPI, Golang)**.  
-- 🎨 Comfortable with **Frontend Development (ReactJS, JavaScript, Bootstrap, HTML, CSS, Figma)**.  
-- 🛠️ Experience in **Databases (MySQL, MongoDB)** and building scalable REST APIs.  
-- ☁️ Exploring **Docker, Kubernetes, and Cloud Deployments**.  
-- 💡 Passionate about **designing user-friendly UIs and building efficient backends**.  
+🌱 Skilled Application & Software Developer specializing in Backend Development with Python (Flask, FastAPI) and Golang.
 
+🎨 Proficient in Frontend Development using ReactJS, JavaScript, Bootstrap, HTML, CSS, and Figma to craft intuitive user interfaces.
+
+🛠️ Experienced in working with Databases (MySQL, MongoDB) and designing scalable REST APIs.
+
+☁️ Exploring DevOps practices including Docker, Kubernetes, and Cloud Deployments for modern application workflows.
+
+💡 Passionate about building full-stack applications, combining user-friendly UIs with robust, efficient backends, and enthusiastic about System Design & Distributed Architectures.
 ---
 
 ## 🧰 Tech Stack:
@@ -34,6 +37,10 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Mobile & Cross-Platform:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 
 
 **Databases:**  
