@@ -3,17 +3,17 @@
 💻 **Full-Stack Developer | Backend Enthusiast | Problem Solver**
 
 ---
-##🚀 About Me
+## 🚀 About Me
 
--🌱 Skilled Application & Software Developer specializing in **Backend Development with Python (Flask, FastAPI) and Golang**.
+- 🌱 Skilled Application & Software Developer specializing in **Backend Development with Python (Flask, FastAPI) and Golang**.
 
--🎨 Proficient in Frontend Development using **ReactJS, JavaScript, Bootstrap, HTML, CSS, and Figma** to craft intuitive user interfaces.
+- 🎨 Proficient in Frontend Development using **ReactJS, JavaScript, Bootstrap, HTML, CSS, and Figma** to craft intuitive user interfaces.
 
--🛠️ Experienced in working with **Databases (MySQL, MongoDB) and designing scalable REST APIs**.
+- 🛠️ Experienced in working with **Databases (MySQL, MongoDB) and designing scalable REST APIs**.
 
--☁️ Exploring DevOps practices including **Docker, Kubernetes, and Cloud Deployments** for modern application workflows.
+- ☁️ Exploring DevOps practices including **Docker, Kubernetes, and Cloud Deployments** for modern application workflows.
 
--💡 Passionate about **building full-stack applications, combining user-friendly UIs with robust, efficient backends, and enthusiastic about System Design & Distributed Architectures**.
+- 💡 Passionate about **building full-stack applications, combining user-friendly UIs with robust, efficient backends, and enthusiastic about System Design & Distributed Architectures**.
 ---
 
 ## 🧰 Tech Stack:
