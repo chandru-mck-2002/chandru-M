@@ -48,7 +48,7 @@
 
 ## 📊 GitHub Stats
 
-![Chandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Chandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandru-mck-2002&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=radical)  
 
