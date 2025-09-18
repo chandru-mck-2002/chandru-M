@@ -1,6 +1,14 @@
 # 👋 Hi, I'm Chandru  
 
 💻 **Full-Stack Developer | Backend Enthusiast | Problem Solver**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&lines=Hi+👋,+I'm+Chandru;Full-Stack+Developer;Application+%26+Software+Developer;System+Design+Enthusiast)](https://git.io/typing-svg)
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
+
+![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=chandru-mck-2002&theme=highcontrast&fire=FF4500&ring=FFD700)
+
 
 ---
 ## 🚀 About Me
