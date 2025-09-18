@@ -5,7 +5,7 @@
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
 
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/chandru-mck-2002/chandru-mck-2002/blob/output/github-contribution-grid-snake.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chandru-mck-2002&theme=highcontrast&fire=FF4500&ring=FFD700)
 
