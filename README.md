@@ -5,11 +5,8 @@
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
 
-## 📊 GitHub Stats  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=chandru-mck-2002&theme=highcontrast&fire=FF4500&ring=FFD700)  
-
-![Snake animation](https://github.com/chandru-mck-2002/chandru-mck-2002/blob/output/github-contribution-grid-snake.svg)
+![Chandru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandru-mck-2002&theme=react-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandru-mck-2002&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
