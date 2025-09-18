@@ -57,7 +57,6 @@
 
 ![Chandru's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandru-mck-2002&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandru-mck-2002&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=chandru-mck-2002&theme=radical)  
 
 ---
 
@@ -71,8 +70,8 @@
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrum222/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandru2002mck@gmail.com)  
 
 ---
 
