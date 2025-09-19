@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&lines=Hi+👋,+I'm+Chandru;Full-Stack+Developer;Application+%26+Software+Developer;System+Design+Enthusiast)](https://git.io/typing-svg)
 
-<img src="https://media.tenor.com/9dacbb6e6f935eb7eee619f805bfa35e/tenor.gif" width="400" align="right" />
-
-
 
 ---
 
